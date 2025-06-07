@@ -1,4 +1,8 @@
 __pycache__/
-.venv/
-plots/
+*.pyc
+.env
+mlruns/
 *.onnx
+
+/trash_classifier/data/
+output*
